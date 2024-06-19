@@ -4,6 +4,7 @@
 
 ![Bracket CAD](assets/bracket_cad.png)
 
+
 ## Required Parts
 
 ```
@@ -19,9 +20,10 @@ Recommend printing using a 0.2mm or 0.4mm nozzel. The part should be solid, so s
 
 The DXP480T gets hot. Strongly recommend printing with an appropriately high-temp material -- ABS, ASA, or better.  Do NOT use PLA or PETG as these will likely melt or deform in use.
 
-## Installation
-
 Use a suitable glue to assemble the bracket. For ABS, use plastic model kit type plastic cement. 
+
+
+## Installation
 
 Install the 4 threaded inserts using a hot soldering iron or other suitable tool.
 
