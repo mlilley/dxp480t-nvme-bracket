@@ -34,5 +34,5 @@ Use only 6mm M2 bolts to screw the bracket to the motherboard - longer screws ma
 
 ![Bracket Installed](assets/bracket_installed.jpg)
 
-
+![Bracket NVME](assets/bracket_nvme.jpg)
 
